@@ -1,4 +1,4 @@
-## 🐍 Contribution Snake
+
 
 <p align="center">
   <picture>
