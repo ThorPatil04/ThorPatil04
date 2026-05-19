@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThorPatil04/ThorPatil04/main/banner.png" width="100%" />
+</p>
+
 # 💫 About Me:
 I am a passionate MCA Student.  who enjoys problem-solving and translating ideas into functional web applications, as demonstrated by projects such as a Food Recipe Recommendation System, a Text Utility Tool in React, and a Birthday Reminder Web App. Alongside academics, I’ve strengthened My skills through certifications in Full Stack Development, Data Science, Machine Learning, and Power BI, showing your eagerness to learn beyond the classroom.<br><br>My expertise spans across Python, JavaScript, and modern frameworks like TensorFlow and Angular. I thrive on building intelligent systems that solve real-world problems, from fake job detection using NLP to interactive AI-powered web applications. I'm eager to contribute to cutting-edge projects and continue growing in the dynamic field of artificial intelligence and data Science.
 
