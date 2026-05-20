@@ -1,6 +1,4 @@
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ThorPatil04&label=Profile%20Views&color=0&icon=3&pretty=true" />
-</a>
+
 
 <p align="center">
   <picture>
@@ -38,4 +36,4 @@ I am a passionate MCA Student.  who enjoys problem-solving and translating ideas
 ---
 [![](https://komarev.com/ghpvc/?username=ThorPatil04&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
