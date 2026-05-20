@@ -1,4 +1,6 @@
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=ThorPatil04&label=Profile%20Views&color=0&icon=3&pretty=true" />
+</a>
 
 <p align="center">
   <picture>
