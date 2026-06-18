@@ -33,7 +33,5 @@ I am a passionate MCA Student.  who enjoys problem-solving and translating ideas
 
 
 
----
-[![](https://komarev.com/ghpvc/?username=ThorPatil04&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
